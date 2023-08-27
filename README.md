@@ -29,6 +29,8 @@ pip install -r requirements.txt
 
 3- Download the appropriate ChromeDriver executable for your system and place it in the root directory of the project. Make sure the ChromeDriver version matches your Chrome browser version (`windows x64 is included`).
 
+3.1- Download for Windows from here [here](https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win64/chrome-win64.zip) and extrat it to the root of this project 'chrome-win64' 
+
 4- Open the script (image_downloader.py) in a text editor.
 
 5- Modify the chromedriver_path and chromepath variables in the script to match the paths of the ChromeDriver executable and Chrome browser on your machine.
